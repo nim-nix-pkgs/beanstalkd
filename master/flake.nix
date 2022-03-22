@@ -10,7 +10,7 @@
   inputs.src-beanstalkd-master.flake = false;
   inputs.src-beanstalkd-master.ref   = "refs/heads/master";
   inputs.src-beanstalkd-master.owner = "tormaroe";
-  inputs.src-beanstalkd-master.repo  = "beanstalkd.nim.git";
+  inputs.src-beanstalkd-master.repo  = "beanstalkd.nim";
   inputs.src-beanstalkd-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

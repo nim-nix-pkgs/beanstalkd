@@ -10,7 +10,7 @@
   inputs.src-beanstalkd-0_1_0.flake = false;
   inputs.src-beanstalkd-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-beanstalkd-0_1_0.owner = "tormaroe";
-  inputs.src-beanstalkd-0_1_0.repo  = "beanstalkd.nim.git";
+  inputs.src-beanstalkd-0_1_0.repo  = "beanstalkd.nim";
   inputs.src-beanstalkd-0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
