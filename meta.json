@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/tormaroe/beanstalkd.nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/tormaroe/beanstalkd.nim.git/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/tormaroe/beanstalkd.nim.git/': SSL connection timeout",
     ""
   ],
   "heads": []
